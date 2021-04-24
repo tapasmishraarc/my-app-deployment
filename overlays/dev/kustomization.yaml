@@ -5,4 +5,4 @@ resources:
 namePrefix: tapasmishraarc-
 images:
 - name: gitopsworkshop/my-app
-  newTag: v1
+  newTag: v2
